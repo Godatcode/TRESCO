@@ -104,29 +104,29 @@ const Navbar = () => {
         </div>
       </nav>
 
-      {/* Mobile Menu */}
-      <div
-        className={`md:hidden absolute top-full left-0 w-full bg-white dark:bg-slate-900 shadow-lg transform transition-transform duration-300 ${
-          isMenuOpen ? "translate-y-0" : "-translate-y-full"
+{/* Mobile Menu */}
+<div
+  className={`md:hidden overflow-hidden transition-all duration-300 ${
+    isMenuOpen ? "max-h-screen" : "max-h-0"
+  } bg-white dark:bg-slate-900 shadow-lg`}
+>
+  <div className="container mx-auto px-4 py-4 flex flex-col space-y-4">
+    {navLinks.map((link) => (
+      <Link
+        key={link.path}
+        to={link.path}
+        className={`py-2 text-lg transition-colors ${
+          location.pathname === link.path
+            ? "text-red-600 dark:text-orange-400 font-medium"
+            : "text-slate-700 dark:text-slate-200"
         }`}
+        onClick={closeMenu}
       >
-        <div className="container mx-auto px-4 py-4 flex flex-col space-y-4">
-          {navLinks.map((link) => (
-            <Link
-              key={link.path}
-              to={link.path}
-              className={`py-2 text-lg transition-colors ${
-                location.pathname === link.path
-                  ? "text-red-600 dark:text-orange-400 font-medium"
-                  : "text-slate-700 dark:text-slate-200"
-              }`}
-              onClick={closeMenu}
-            >
-              {link.name}
-            </Link>
-          ))}
-        </div>
-      </div>
+        {link.name}
+      </Link>
+    ))}
+  </div>
+</div>
     </header>
   );
 };
