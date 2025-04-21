@@ -1,0 +1,303 @@
+[
+    {
+      "id": 1,
+      "title": "Diwali",
+      "content_text": "The Festival of Lights celebrated across India with lamps, fireworks, and sweets.",
+      "image_url": "https://t3.ftcdn.net/jpg/04/20/70/84/360_F_420708402_KsS0F2Ne1WVSAvpgTOe4qfIjqWNHjhrt.jpg"
+    },
+    {
+      "id": 2,
+      "title": "Holi",
+      "content_text": "The Festival of Colors celebrated with vibrant powders and water festivities.",
+      "image_url": "https://www.pexels.com/photo/people-throwing-powder-on-each-other-during-holi-festival-3409968/"
+    },
+    {
+      "id": 3,
+      "title": "Dussehra",
+      "content_text": "Marks the victory of good over evil, celebrated with effigy burning and processions.",
+      "image_url": "https://commons.wikimedia.org/wiki/File:TYPICAL_Dussehra_Celebrations_02_Oct_2006.jpg"
+    },
+    {
+      "id": 4,
+      "title": "Durga Puja",
+      "content_text": "A grand celebration of Goddess Durga, especially in West Bengal.",
+      "image_url": "https://unsplash.com/photos/durga-puja-pandals-in-kolkata-8yR3dWnG9nA"
+    },
+    {
+      "id": 5,
+      "title": "Ganesh Chaturthi",
+      "content_text": "Celebrating the birth of Lord Ganesha with idols, processions, and immersion.",
+      "image_url": "https://unsplash.com/photos/ganesh-chaturthi-celebration-5U_28ojjgms"
+    },
+    {
+      "id": 6,
+      "title": "Onam",
+      "content_text": "Kerala’s harvest festival with boat races, floral designs, and feasts.",
+      "image_url": "https://commons.wikimedia.org/wiki/File:Onam_pookalam_2018.jpg"
+    },
+    {
+      "id": 7,
+      "title": "Pongal",
+      "content_text": "Tamil Nadu’s harvest festival, celebrated with special dishes and kolam designs.",
+      "image_url": "https://unsplash.com/photos/pongal-celebration-in-tamil-nadu-7dWz5K8jQ6g"
+    },
+    {
+      "id": 8,
+      "title": "Baisakhi",
+      "content_text": "Punjab’s harvest festival marked by dancing, fairs, and processions.",
+      "image_url": "https://unsplash.com/photos/baisakhi-celebration-in-punjab-5oQyqv7c2p0"
+    },
+    {
+      "id": 9,
+      "title": "Eid-ul-Fitr",
+      "content_text": "Celebrated by Muslims across India marking the end of Ramadan.",
+      "image_url": "https://unsplash.com/photos/mosque-during-eid-4nXkhLCrkLo"
+    },
+    {
+      "id": 10,
+      "title": "Christmas",
+      "content_text": "Christian festival celebrating the birth of Jesus Christ with prayers and festivities.",
+      "image_url": "https://unsplash.com/photos/christmas-celebration-in-india-xqR2tK5B7lA"
+    },
+    {
+      "id": 11,
+      "title": "Janmashtami",
+      "content_text": "Celebrates the birth of Lord Krishna, especially in Mathura and Vrindavan.",
+      "image_url": "https://commons.wikimedia.org/wiki/File:Janmashtami_celebration.jpg"
+    },
+    {
+      "id": 12,
+      "title": "Navratri",
+      "content_text": "Nine nights of worship, dance, and music dedicated to Goddess Durga.",
+      "image_url": "https://unsplash.com/photos/navratri-garba-dance-6F1b1oL8Qz8"
+    },
+    {
+      "id": 13,
+      "title": "Lohri",
+      "content_text": "Punjabi winter folk festival with bonfires, music, and dance.",
+      "image_url": "https://www.pexels.com/photo/people-celebrating-around-bonfire-during-lohri-1707821/"
+    },
+    {
+      "id": 14,
+      "title": "Bihu",
+      "content_text": "Assam’s major harvest festival celebrated with dance and feasts.",
+      "image_url": "https://commons.wikimedia.org/wiki/File:Bihu_Dance.jpg"
+    },
+    {
+      "id": 15,
+      "title": "Chhath Puja",
+      "content_text": "Bihar’s festival worshipping the Sun God with riverbank rituals.",
+      "image_url": "https://unsplash.com/photos/chhath-puja-celebration-2nU9U5l4Q2A"
+    },
+    {
+      "id": 16,
+      "title": "Raksha Bandhan",
+      "content_text": "Celebrates the bond between brothers and sisters with rakhi tying.",
+      "image_url": "https://unsplash.com/photos/raksha-bandhan-celebration-3m8K1bqTn3M"
+    },
+    {
+      "id": 17,
+      "title": "Makar Sankranti",
+      "content_text": "Harvest festival marked by kite flying and sweets, especially in Gujarat.",
+      "image_url": "https://unsplash.com/photos/makar-sankranti-kite-festival-7w0l7t9kU2w"
+    },
+    {
+      "id": 18,
+      "title": "Mahavir Jayanti",
+      "content_text": "Jain festival celebrating the birth of Lord Mahavir.",
+      "image_url": "https://commons.wikimedia.org/wiki/File:Mahavir_Jayanti.jpg"
+    },
+    {
+      "id": 19,
+      "title": "Buddha Purnima",
+      "content_text": "Commemorates the birth, enlightenment, and death of Buddha.",
+      "image_url": "https://unsplash.com/photos/buddha-purnima-celebration-1k5QwA1nR9A"
+    },
+    {
+      "id": 20,
+      "title": "Gurpurab",
+      "content_text": "Sikh festival marking the birthdays of Sikh Gurus with processions and prayers.",
+      "image_url": "https://commons.wikimedia.org/wiki/File:Gurpurab_celebration.jpg"
+    },
+    {
+      "id": 21,
+      "title": "Karva Chauth",
+      "content_text": "North Indian festival where married women fast for their husbands' well-being.",
+      "image_url": "https://www.pexels.com/photo/woman-holding-sieve-during-karva-chauth-1707820/"
+    },
+    {
+      "id": 22,
+      "title": "Vishu",
+      "content_text": "Kerala’s New Year festival with feasts and traditional rituals.",
+      "image_url": "https://commons.wikimedia.org/wiki/File:Vishu_Kani.jpg"
+    },
+    {
+      "id": 23,
+      "title": "Ugadi",
+      "content_text": "New Year festival in Andhra Pradesh, Telangana, and Karnataka.",
+      "image_url": "https://unsplash.com/photos/ugadi-celebration-3gkZ5K8jQ6g"
+    },
+    {
+      "id": 24,
+      "title": "Gudi Padwa",
+      "content_text": "Maharashtrian New Year marked by flag hoisting and sweets.",
+      "image_url": "https://commons.wikimedia.org/wiki/File:Gudi_Padwa_celebration.jpg"
+    },
+    {
+      "id": 25,
+      "title": "Ram Navami",
+      "content_text": "Celebrates the birth of Lord Rama with prayers and processions.",
+      "image_url": "https://unsplash.com/photos/ram-navami-celebration-2nU9U5l4Q2A"
+    },
+    {
+      "id": 26,
+      "title": "Maha Shivaratri",
+      "content_text": "Night dedicated to Lord Shiva with fasting and temple rituals.",
+      "image_url": "https://unsplash.com/photos/maha-shivaratri-celebration-6F1b1oL8Qz8"
+    },
+    {
+      "id": 27,
+      "title": "Pushkar Camel Fair",
+      "content_text": "Rajasthan’s vibrant livestock fair with camel races and cultural events.",
+      "image_url": "https://unsplash.com/photos/pushkar-camel-fair-4nXkhLCrkLo"
+    },
+    {
+      "id": 28,
+      "title": "Hornbill Festival",
+      "content_text": "Nagaland’s festival showcasing tribal culture, dance, and crafts.",
+      "image_url": "https://commons.wikimedia.org/wiki/File:Hornbill_Festival.jpg"
+    },
+    {
+      "id": 29,
+      "title": "Thrissur Pooram",
+      "content_text": "Kerala’s temple festival with elephant processions and fireworks.",
+      "image_url": "https://commons.wikimedia.org/wiki/File:Thrissur_Pooram.jpg"
+    },
+    {
+      "id": 30,
+      "title": "Teej",
+      "content_text": "Monsoon festival for women, celebrated with swings and songs in Rajasthan.",
+      "image_url": "https://unsplash.com/photos/teej-celebration-in-rajasthan-2nU9U5l4Q2A"
+    },
+    {
+      "id": 31,
+      "title": "Kumbh Mela",
+      "content_text": "World’s largest religious gathering held at four river-bank pilgrimage sites.",
+      "image_url": "https://commons.wikimedia.org/wiki/File:Kumbh_Mela_Haridwar_2010.jpg"
+    },
+    {
+      "id": 32,
+      "title": "Jaisalmer Desert Festival",
+      "content_text": "Rajasthan’s celebration of desert culture with music, dance, and camel races.",
+      "image_url": "https://unsplash.com/photos/jaisalmer-desert-festival-4nXkhLCrkLo"
+    },
+    {
+      "id": 33,
+      "title": "Sunburn Festival",
+      "content_text": "Goa’s international electronic dance music festival.",
+      "image_url": "https://unsplash.com/photos/sunburn-festival-goa-3gkZ5K8jQ6g"
+    },
+    {
+      "id": 34,
+      "title": "Khajuraho Dance Festival",
+      "content_text": "Celebrates Indian classical dance forms at the Khajuraho temples.",
+      "image_url": "https://commons.wikimedia.org/wiki/File:Khajuraho_Dance_Festival.jpg"
+    },
+    {
+      "id": 35,
+      "title": "Hampi Festival",
+      "content_text": "Karnataka’s cultural festival with music, dance, and processions.",
+      "image_url": "https://commons.wikimedia.org/wiki/File:Hampi_Utsav.jpg"
+    },
+    {
+      "id": 36,
+      "title": "Sankat Mochan Music Festival",
+      "content_text": "Classical music festival held at the Sankat Mochan temple in Varanasi.",
+      "image_url": "https://commons.wikimedia.org/wiki/File:Sankat_Mochan_Music_Festival.jpg"
+    },
+    {
+      "id": 37,
+      "title": "Nehru Trophy Boat Race",
+      "content_text": "Kerala’s iconic snake boat race held on Punnamada Lake.",
+      "image_url": "https://commons.wikimedia.org/wiki/File:Nehru_Trophy_Boat_Race.jpg"
+    },
+    {
+      "id": 38,
+      "title": "Ambubachi Mela",
+      "content_text": "Spiritual festival at Kamakhya Temple, Assam.",
+      "image_url": "https://commons.wikimedia.org/wiki/File:Ambubachi_Mela.jpg"
+    },
+    {
+      "id": 39,
+      "title": "Deccan Festival",
+      "content_text": "Hyderabad’s festival celebrating local arts, crafts, and cuisine.",
+      "image_url": "https://unsplash.com/photos/deccan-festival-hyderabad-5oQyqv7c2p0"
+    },
+    {
+      "id": 40,
+      "title": "Sonepur Mela",
+      "content_text": "Asia’s largest cattle fair held in Bihar.",
+      "image_url": "https://commons.wikimedia.org/wiki/File:Sonepur_Mela.jpg"
+    },
+    {
+      "id": 41,
+      "title": "Baul Fakir Utsav",
+      "content_text": "West Bengal’s folk music festival celebrating Baul and Fakir traditions.",
+      "image_url": "https://commons.wikimedia.org/wiki/File:Baul_Fakir_Utsav.jpg"
+    },
+    {
+      "id": 42,
+      "title": "Kite Festival",
+      "content_text": "International kite festival celebrated in Gujarat during Makar Sankranti.",
+      "image_url": "https://unsplash.com/photos/kite-festival-gujarat-7w0l7t9kU2w"
+    },
+    {
+      "id": 43,
+      "title": "Losar",
+      "content_text": "Tibetan New Year celebrated in Ladakh and Sikkim.",
+      "image_url": "https://commons.wikimedia.org/wiki/File:Losar_Celebration.jpg"
+    },
+    {
+      "id": 44,
+      "title": "Goa Carnival",
+      "content_text": "Four-day celebration with parades, music, and dance in Goa.",
+      "image_url": "https://unsplash.com/photos/goa-carnival-3gkZ5K8jQ6g"
+    },
+    {
+      "id": 45,
+      "title": "Chennai Music Festival",
+      "content_text": "December festival celebrating Carnatic classical music in Chennai.",
+      "image_url": "https://commons.wikimedia.org/wiki/File:Chennai_Music_Festival.jpg"
+    },
+    {
+      "id": 46,
+      "title": "Rath Yatra",
+      "content_text": "Puri’s chariot festival dedicated to Lord Jagannath.",
+      "image_url": "https://commons.wikimedia.org/wiki/File:Rath_Yatra_Puri.jpg"
+    },
+    {
+      "id": 47,
+      "title": "Dree Festival",
+      "content_text": "Arunachal Pradesh’s agricultural festival of the Apatani tribe.",
+      "image_url": "https://commons.wikimedia.org/wiki/File:Dree_Festival.jpg"
+    },
+    {
+      "id": 48,
+      "title": "Mim Kut",
+      "content_text": "Mizoram’s post-harvest festival with rituals and feasting.",
+      "image_url": "https://commons.wikimedia.org/wiki/File:Mim_Kut.jpg"
+    },
+    {
+      "id": 49,
+      "title": "Sair Festival",
+      "content_text": "Himachal Pradesh’s festival marking the end of the harvest season.",
+      "image_url": "https://commons.wikimedia.org/wiki/File:Sair_Festival.jpg"
+    },
+    {
+      "id": 50,
+      "title": "Chapchar Kut",
+      "content_text": "Mizoram’s spring festival celebrated with music, dance, and feasts.",
+      "image_url": "https://commons.wikimedia.org/wiki/File:Chapchar_Kut.jpg"
+    }
+  ]
+  
